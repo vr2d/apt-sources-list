@@ -1,0 +1,6 @@
+deb http://ftp.cn.debian.org/debian jessie main
+deb-src http://ftp.cn.debian.org/debian jessie main
+deb http://ftp.cn.debian.org/debian jessie-updates main
+deb-src http://ftp.cn.debian.org/debian jessie-updates main
+deb http://mirrors.ustc.edu.cn/debian-security/ jessie/updates main
+deb-src http://mirrors.ustc.edu.cn/debian-security/ jessie/updates main
